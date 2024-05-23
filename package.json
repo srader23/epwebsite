@@ -1,0 +1,13 @@
+
+{
+    "name": "ep-website",
+    "version": "1.0.0",
+    "main": "server.js",
+    "dependencies": {
+        "express": "^4.17.1",
+        "arcgis-rest-request": "^2.5.0"
+    },
+    "scripts": {
+        "start": "node server.js"
+    }
+}
